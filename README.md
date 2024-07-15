@@ -1,4 +1,13 @@
 # necessary libraries
-
-```markdown
+```
+pip install selenium   
+```
+```
 pip install time
+```
+```
+pip install pyautogui
+```
+```
+pip install requests 
+```
